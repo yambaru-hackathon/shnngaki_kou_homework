@@ -168,3 +168,4 @@ class FeedPage extends StatelessWidget {
 }
 
 //iiiii
+//uiなおしました。
